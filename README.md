@@ -24,7 +24,7 @@ matrix-calculator-iccom-2026/
 │   └── script.js
 ├── tests/
 │   ├── manual/
-│   └── robot/
+│   └── automatiom/
 ├── docs/
 │   ├── fluxograma.png
 │   ├── casos_uso.png
